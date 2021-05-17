@@ -1,0 +1,7 @@
+name = "example-production"
+region = "ams3"
+public_keys = {
+  "key1": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxDTk4UoSmZ/2KwTBJE4qWs7zek+Vi0UBOWn6qi9fC41lPJripNQwv6UX2igSgh/QaIENx+CZK85W+w5NYdR0xWzkoaK/q5jNP1sTHD2d6l80WEcx806Jd81wdyp3d8wvgpenF1v8hZ6QIgP3PRJBRWxcqyLjtk5QvVghFuZM5GWKbpNI1TjpYdgt3SBbOF2D66ArkSaZzHeCLZkuDsp2x0lmKuhy21ebz3uB2cFHe8CxGKyelYDyajvoisvaoslCTZ0SKodNDdFh47WTdxzvIDOkJNhBvHGNH+73I/jBVdpwRXiyJIsgQm1T1E240do3OxGJRVP2uxV",
+  "key2": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDH3jqLPTe3hmQmyoc2mfgQbtlTDncMcSJ6N9jgYFAo/NJ+5vej0WCe5HU5EtdMH3CnCHTe4WyY5g/A6wfLNA9hRaoe6BTQrCThl0hV7NQl7b4bC5N+xMNJKF696X1NCcrhqCenkx0pq7iDeqXtLpHqa36SrQGxm/FbtwzfgsIpOMBlha342BwleGsRajeRqtYVxZQ5Yu4imAMaJ0ZfOsvTUSR745oDHEkoHNsS7DydF3H2uWWa93GBa/gSpvKzTBQ6mny/af809fa7dsq8JdA77n20QUkCWe6l0//B/RlFn3wY4rBsoqrD9BwR+NnzzlFwEQgKvj5/XIEJSyhpw2VZAl9l99jc4L",
+  //"service_account": ""
+}

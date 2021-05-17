@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+.terraform/
+
+remote_backend.hcl
+kubeconfig*
